@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpeixaso.beauty-solar-rheinhessen.de/sitemap.xml
